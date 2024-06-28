@@ -1,0 +1,135 @@
+@media  only screen and  ( max-width: 320px ) {
+  .continer {
+    width: 90%;
+    text-align: center;
+  }
+  .het {
+    display: none;
+  }
+  .hed_nav {
+    display: inline-block;
+  }
+
+  .hed_nav > img {
+    margin: 10px auto;
+  } 
+  .hed_ul {
+    display: none;
+  }
+  #cerdes > span {
+    margin-left: 0;
+    font-size: 13px;
+  }
+  .cerdes {
+    display: inline;
+  }
+  .cerdes_text {
+    display: none;
+  }
+  .none {
+    display: none;
+  }
+  .vam_item {
+    font-size: 10px;
+    height: 230px;
+    width: 140px;
+  }
+  .vam_item > h4 {
+    margin: 3px 15px 0px 20px;
+  }
+  .vam_item > span  {
+    font-size: 10px;
+    height: 63px;
+    width: 100px;
+    overflow: hidden;
+    margin-bottom: 0;
+  }
+
+  .vam_small {
+    width: 70px;
+    height: 30px;
+    border-right: 2px solid #1111115b;
+  }
+  .vam_small > h5 {
+    padding: 3px 20px;
+    font-size: 10px;
+  }
+  .vam_item > img {
+    width: 140px;
+  }
+
+  .vam_list {
+    height: 30px;
+  }
+
+  .vam_small_img {
+    position: relative;
+    width: 70px;
+    height: 30px;
+  }
+  .vam_small_img > img {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    bottom: 8px;
+    left: 5px;
+  }
+  .vam_small_img > h5 {
+    position: absolute;
+    font-size: 8px;
+    bottom: 8px;
+    right: 3px;
+  }
+  .buttom {
+    display: none;
+  }
+  #cerdes_img {
+    width: 290px;
+    height: 230px;
+    overflow: hidden;
+  }
+  .cerdes_img > img {
+    width: 290px;
+    height: 230px;
+  }
+  .footer {
+    display: inline-block;
+  }
+  .footer_item {
+    width: 310px;
+  }
+
+  .footer_item > p {
+    width: 150px;
+    font-size: 8px;
+  }
+  .footer_item_elemet {
+    width: 300px;
+  }
+  .footer_elemat {
+    width: 100px;
+  }
+  .footer_elemat > p  {
+    font-size: 8px;
+  }
+  .footer_item-icon {
+    width: 300px;
+  }
+  .footer_item_2 {
+    display: none;
+  }
+  .btn {
+    margin-top: 35px;
+    margin-bottom: 30px;
+  }
+  .footer_item-icon {
+    position: relative;
+  }
+
+  .footer_pos{
+    position: absolute;
+    font-size: 13px;
+    right: 11px;
+    bottom: 68px;
+  }
+}
